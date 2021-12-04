@@ -2,6 +2,8 @@
  A native javascript countdown component
 
  ## How do I use it?
+ Download the file in the js folder (which contains the component).
+ 
  You can use the component by using the the following HTML tag
  `<date-countdown></date-countdown>`
 
