@@ -17,6 +17,8 @@
  | spacing | Used to make spacing between the days, hours, minutes and seconds elements | any integer in pixels (default 5) |
  | completionText | The text being displayed when the target date is being hit | "Released!" |
 
+ You can look in index.html if you want an example.
+
  You can also style different things with css variables:
 
  | variable name | Description | Default |
@@ -24,6 +26,6 @@
  | --countdown-font-size | Sets the font size of the countdown text (days, hours, minutes and seconds text) | 1.25em |
  | --countdown-header-size | Sets the font size of the header for the countdown | 1.4em |
 
- Stuff I want to do:
+ ### Stuff I want to do:
 
  - [ ] Move the spacing into a css variable (to streamline the styling of the component)
