@@ -29,3 +29,4 @@
  ### Stuff I want to do:
 
  - [ ] Move the spacing into a css variable (to streamline the styling of the component)
+ - [ ] Bug: Fix the 1 second offset (it's 1 second behind the device clock at the moment)
